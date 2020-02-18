@@ -10,3 +10,20 @@ CREATE TABLE CORP_MASTER
     CM_CTRLDATE DATE,  
     PRIMARY KEY (CM_CORP_ID)  
 );  
+
+
+CREATE TABLE corp_id(ci_corp_id int);  
+
+CREATE TABLE IF NOT EXISTS "corp_info"(  
+  ci_corp_id INT,  
+  ci_name TEXT,  
+  ci_lab TEXT,  
+  ci_text TEXT  
+);  
+
+CREATE TABLE directors(  
+  ci_corp_id INT,  
+  ci_name TEXT,  
+  ci_lab TEXT,  
+  ci_text TEXT  
+);  
