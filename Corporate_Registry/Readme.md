@@ -1,4 +1,4 @@
-# Database Schema  
+# Database Schema for getCorporateRegristryInfo.ipynb  
 CREATE TABLE CORP_MASTER  
 (  
     CM_CORP_ID INT,  
