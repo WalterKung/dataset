@@ -7,4 +7,6 @@
 ## Used Cases:  
 * Create Alert by scanning news feed  
 
-## Sytem diagram  
+## System diagram  
+![alt text](https://github.com/WalterKung/dataset/blob/master/RSS_News_Feeds/NF_System_diagram.png)  
+
