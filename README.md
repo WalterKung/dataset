@@ -5,3 +5,5 @@
 
 ## Contents:  
 1. Enron dataset preparation for text analysis
+2. Corporate_Registry from industry canada  
+3. Public trade company and its industry 
