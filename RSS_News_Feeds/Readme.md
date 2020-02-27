@@ -6,3 +6,5 @@
 
 ## Used Cases:  
 * Create Alert by scanning news feed  
+
+## Sytem diagram  
